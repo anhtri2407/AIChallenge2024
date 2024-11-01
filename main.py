@@ -63,7 +63,7 @@ for choice in choices:
     
     st.table(df.iloc[l - 1 : r])
     id = vid.split('_')[0]
-    rows = n // 5 + 1 # 5 cột 1 dòng
+    rows = n // 5 + 1 # 5 cols per row
     remain = n
     for row in range(rows):
         num_of_cols = 5 if remain > 5 else remain
