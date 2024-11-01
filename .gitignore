@@ -1,0 +1,10 @@
+clip-features-32/
+Dataset/
+map-keyframes/
+media-info/
+myenv/
+objects/
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
