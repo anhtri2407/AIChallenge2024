@@ -1,6 +1,7 @@
 # How to use: 
 
-#### data, requirements.txt: updating
+#### data: uploaded Keyframes_L01 -> Keyframes_L03
+#### requirements.txt: updating
 
 > streamlit run main.py
 
