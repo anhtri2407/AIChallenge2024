@@ -93,7 +93,7 @@ try:
     USIT.load_session(login_session)
     assert len(USIT.get_evaluation_ids()) != 0
 except:
-    USIT.login("team68", "chCBfUGL6E")
+    USIT.login("", "")
     USIT.save_session(login_session)
 
 st.sidebar.title("AIC Submit")
